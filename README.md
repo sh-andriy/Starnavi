@@ -68,4 +68,4 @@ autopep8 --in-place --aggressive --aggressive <filename>
 
 ## Contributor
 
-- Andrew Sheredko
+- [Andriy Sheredko](https://github.com/sh-andriy)
